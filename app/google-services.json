@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938457766302",
+    "project_id": "pc02-moviles",
+    "storage_bucket": "pc02-moviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938457766302:android:76d4c79d3c27ea840f1e8f",
+        "android_client_info": {
+          "package_name": "dev.example.pc02_paolomaldonado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938457766302-ofr0dmmim773j5h7s0qhjchjb6d7lc8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAukG4qiXmWtD2gTx4Cg0d8ewteLqVGok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938457766302-ofr0dmmim773j5h7s0qhjchjb6d7lc8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
